@@ -1,0 +1,2 @@
+chiqar = print
+kirit = input
